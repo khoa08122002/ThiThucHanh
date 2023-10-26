@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ThiThucHanh</string>
+    <string-array name="layout_name">
+        <item> Bread</item>
+        <item> Cherrycheesecake</item>
+        <item> Gingerbreadhouse</item>
+        <item> Hamburger</item>
+        <item> Sunnysideupeggs</item>
+        <item> Sunnysideupeggs</item>
+        <item> Hamburger</item>
+        <item> Gingerbreadhouse</item>
+        <item> Cherrycheesecake</item>
+        <item> Bread</item>
+    </string-array>
+</resources>

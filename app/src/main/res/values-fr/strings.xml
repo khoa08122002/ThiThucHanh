@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ThiThucHanh</string>
+    <string-array name="layout_name">
+        <item> Pain</item>
+        <item> Gâteau au fromage aux cerises</item>
+        <item> Maison en pain d\'épice</item>
+        <item> Hamburger</item>
+        <item> Œufs au plat</item>
+        <item> Œufs au plat</item>
+        <item> Hamburger</item>
+        <item> Maison en pain d\'épice</item>
+        <item> Gâteau au fromage aux cerises</item>
+        <item> Pain</item>
+    </string-array>
+</resources>
+
